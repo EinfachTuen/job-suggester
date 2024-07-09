@@ -1,0 +1,61 @@
+**Welche Tätigkeiten machen dir am meisten Spaß?**
+   - A: Arbeiten mit Computern und Technologie
+   - B: Arbeiten im Freien und mit der Natur
+   - C: Kreatives Arbeiten und Kunst
+   - D: Soziale Interaktion und anderen Menschen helfen
+   - E: Analytische und zahlenbasierte Tätigkeiten
+   - F: Manuelles Arbeiten und Handwerk
+
+**Welche Arbeitsumgebung bevorzugst du?**
+   - A: Büro
+   - B: Draußen
+   - C: Labor oder Werkstatt
+   - D: Krankenhaus oder Pflegeeinrichtung
+   - E: Schule oder Bildungsinstitution
+   - F: Mobil (z.B. im Transport- und Logistikbereich)
+
+**Welche Arbeitszeiten sind für dich ideal?**
+   - A: Feste Bürozeiten (9-5)
+   - B: Flexible Arbeitszeiten
+   - C: Schichtarbeit
+   - D: Projektbezogene Arbeitszeiten
+   - E: Regelmäßige, aber wechselnde Schichten
+
+**Wie wichtig ist dir die Zusammenarbeit im Team?**
+   - A: Sehr wichtig, ich arbeite gerne im Team
+   - B: Ab und zu, aber ich arbeite auch gerne alleine
+   - C: Nicht so wichtig, ich bevorzuge eigenständiges Arbeiten
+
+**Wie stehst du zu körperlicher Arbeit?**
+   - A: Ich bevorzuge geistige Arbeit
+   - B: Eine Mischung aus körperlicher und geistiger Arbeit ist ideal
+   - C: Ich mag körperliche Arbeit und bin gerne aktiv
+
+**Wie wichtig ist dir eine stabile und sichere Anstellung?**
+   - A: Sehr wichtig, ich schätze Sicherheit und Stabilität
+   - B: Wichtig, aber Flexibilität und Abwechslung sind auch attraktiv
+   - C: Nicht so wichtig, ich bin offen für Risiko und Veränderung
+
+**Welche Ausbildung oder Qualifikation hast du oder möchtest du anstreben?**
+   - A: Universitätsabschluss
+   - B: Fachhochschulabschluss
+   - C: Berufsausbildung
+   - D: Keine spezielle Ausbildung, ich lerne lieber durch Praxis
+
+**Welche Rolle spielen für dich Einkommen und Karrierechancen?**
+   - A: Sehr wichtig, ich strebe nach einem hohen Einkommen und Aufstiegsmöglichkeiten
+   - B: Wichtig, aber nicht das Hauptkriterium
+   - C: Weniger wichtig, ich bevorzuge Zufriedenheit im Job über hohes Einkommen
+
+**Wie wichtig ist dir die Arbeitsethik deines Arbeitgebers?**
+   - A: Sehr wichtig, ethische und nachhaltige Praktiken sind für mich entscheidend
+   - B: Wichtig, aber nicht das Hauptkriterium
+   - C: Weniger wichtig, ich fokussiere mich auf andere Aspekte des Jobs
+
+ **Wie wichtig ist dir die Kreativität in deinem Job?**
+    - A: Sehr wichtig, ich möchte kreativ und innovativ arbeiten
+    - B: Wichtig, aber nicht entscheidend
+    - C: Weniger wichtig, ich bevorzuge strukturierte und routinierte Aufgaben
+
+
+
