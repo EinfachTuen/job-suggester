@@ -31,7 +31,7 @@ def generate_response(user_input):
     # Trim messages if necessary
     trimmed_messages = trim_messages(
         messages,
-        max_tokens=150000,
+        max_tokens=500000,
         strategy="last",
         token_counter=model,
     )
